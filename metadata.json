@@ -1,0 +1,8 @@
+{
+  "name": "DIEUME CINEMA",
+  "description": "Application de gestion et suivi de films et séries avec statistiques de visionnage et recommandations personnalisées alimentées par IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
